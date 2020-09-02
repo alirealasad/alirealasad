@@ -31,8 +31,6 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: checkout2 
-        uses: actions/checkout@v2
       - name: GitHub-Activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
