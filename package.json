@@ -1,0 +1,30 @@
+{
+  "name": "thmsgbrt",
+  "version": "1.0.0",
+  "description": "A dynamic README.md for your GitHub Profile, using Actions, Javascript and Mustache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirealasad/alirealasad.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "anime",
+    "javascript"
+  ],
+  "author": "Asad Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alirealasad/alirealasad/issues"
+  },
+  "homepage": "https://github.com/alirealasad/alirealasad#readme",
+  "dependencies": {
+    "mustache": "^4.0.1",
+    "node-fetch": "^2.6.0"
+  }
+}
