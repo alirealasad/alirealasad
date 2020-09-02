@@ -14,14 +14,14 @@
 
 <br />
 
-### Things i code with:
+### things i code with:
 
 #### Frontend
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmlplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="VUE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />](https://vuejs.org/)
+[<img align="left" alt="VUE" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][https://vuejs.org/]
 [<img align="left" alt="REACT" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][https://reactjs.org/]
 [<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][https://www.typescriptlang.org/]
 [<img align="left" alt="SCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][https://sass-lang.com/]
@@ -75,7 +75,7 @@
 [<img align="left" alt="react-native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />][https://reactnative.dev/]
 
 # Top Airing Anime's in this Season
-> This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 2 September, 18:34<br /></p>
+> This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 2 September, 18:40<br /></p>
 
 |   |   |   |   |  |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |
