@@ -28,8 +28,8 @@
 [<img align="left" alt="SCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://sass-lang.com/)
 [<img align="left" alt="VUEX" width="26px" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" />](https://vuex.vuejs.org/)
 [<img align="left" alt="REDUX" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />](https://redux.js.org/)
-
 <br />
+
 #### Backend
 
 [<img align="left" alt="NODE" width="26px" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4" />](https://nodejs.org/en/)
@@ -40,8 +40,8 @@
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />](https://www.cprogramming.com/)
 [<img align="left" alt="django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />](https://www.djangoproject.com/)
 [<img align="left" alt="ruby" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />](https://www.ruby-lang.org/en/)
-
 <br />
+
 #### Database
 
 [<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
@@ -50,8 +50,8 @@
 [<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
 [<img align="left" alt="mariadb" width="26px" src="https://avatars0.githubusercontent.com/u/4739304?s=200&v=4" />](https://mariadb.org/)
 [<img align="left" alt="sqlite" width="26px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />](https://www.sqlite.org/index.html)
-
 <br />
+
 #### Devops
 
 [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
@@ -60,8 +60,8 @@
 [<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][gitplaylist]
 [<img align="left" alt="Actions" width="26px" src="https://avatars0.githubusercontent.com/u/44036562?s=200&v=4" />](https://github.com/features/actions)
 [<img align="left" alt="circleci" width="26px" src="https://avatars2.githubusercontent.com/u/1231870?s=200&v=4" />](https://circleci.com/)
-
 <br />
+
 #### Cloud
 
 [<img align="left" alt="GCP" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />](https://cloud.google.com/)
@@ -69,8 +69,8 @@
 [<img align="left" alt="heroku" width="26px" src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />](http://www.heroku.com/)
 [<img align="left" alt="netlify" width="26px" src="https://avatars0.githubusercontent.com/u/7892489?s=200&v=4" />](https://www.netlify.com/)
 [<img align="left" alt="vercel" width="26px" src="https://avatars1.githubusercontent.com/u/14985020?s=200&v=4" />](https://vercel.com/)
-
 <br />
+
 #### Others
 
 [<img align="left" alt="electron" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />](https://www.electronjs.org/)
@@ -80,7 +80,7 @@
 [<img align="left" alt="react-native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://reactnative.dev/)
 
 # Top Airing Anime's in this Season
-> This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 3 September, 06:09<br /></p>
+> This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 3 September, 07:45<br /></p>
 
 |   |   |   |   |  |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |
@@ -91,14 +91,8 @@
 
 
 ---
-## 🔔 MY Recent Github Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## :zap: Github Stats
 <img align="left" alt="alirealasad's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alirealasad&show_icons=true&hide_border=true" />
-
-------------
 
 [email]: mailto:alirealasad@gmail.com
 [website]: https://asadali.netlify.app/
