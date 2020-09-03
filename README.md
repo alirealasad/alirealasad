@@ -80,7 +80,7 @@
 [<img align="left" alt="react-native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://reactnative.dev/)
 
 # Top Airing Anime's in this Season
-> This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 3 September, 03:08<br /></p>
+> This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 3 September, 06:09<br /></p>
 
 |   |   |   |   |  |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |
