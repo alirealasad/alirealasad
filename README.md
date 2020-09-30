@@ -4,7 +4,7 @@
 <p>Welcome to my page!</p>
 
 # Top Airing Anime's in this Season
-> This <i>LIST</i> is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 30 September, 06:15<br /></p>
+> This <i>LIST</i> is generated <b>every 3 hours</b>!</br>Last refresh: Wednesday, 30 September, 09:09<br /></p>
 
 |   |   |   |   |  |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |
