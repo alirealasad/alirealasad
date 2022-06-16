@@ -4,7 +4,7 @@
 <p>Welcome to my page!</p>
 
 # Top Airing Anime's in this Season
-> This <i>LIST</i> is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 16 June, 09:13<br /></p>
+> This <i>LIST</i> is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 16 June, 09:36<br /></p>
 
 |   |   |   |   |  |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |
@@ -88,9 +88,6 @@
 [<img align="left" alt="markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />](https://www.youtube.com/channel/UC39bf-FZ8f4Om1TJKYY9klQ?view_as=subscriber)
 [<img align="left" alt="react-native" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />](https://reactnative.dev/)
 <br />
-
-## :zap: Github Stats
-<img align="left" alt="alirealasad's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=alirealasad&show_icons=true&hide_border=true" />
 
 [email]: mailto:alirealasad@gmail.com
 [website]: https://asadali.netlify.app/
