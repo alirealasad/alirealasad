@@ -4,7 +4,7 @@
 <p>Welcome to my page!</p>
 
 # Top Airing Anime's in this Season
-> This <i>LIST</i> is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 16 June, 06:15<br /></p>
+> This <i>LIST</i> is generated <b>every 3 hours</b>!</br>Last refresh: Thursday, 16 June, 08:59<br /></p>
 
 |   |   |   |   |  |
 | :---:         |     :---:      |          :---: | :---:         |     :---:      |
@@ -59,7 +59,6 @@
 [<img align="left" alt="NeDB" width="26px" src="https://camo.githubusercontent.com/bed5a99a9fe4e543269919d65aea0910cc73ccad/687474703a2f2f692e696d6775722e636f6d2f394f31784846622e706e67" />](https://dbdb.io/db/nedb)
 [<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />](https://www.postgresql.org/)
 [<img align="left" alt="mariadb" width="26px" src="https://avatars0.githubusercontent.com/u/4739304?s=200&v=4" />](https://mariadb.org/)
-[<img align="left" alt="sqlite" width="26px" src="https://www.sqlite.org/images/sqlite370_banner.gif" />](https://www.sqlite.org/index.html)
 <br />
 
 #### Devops
